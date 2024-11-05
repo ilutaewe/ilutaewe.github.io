@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ilutaewe.github.io/Phn/sitemap_index.txt
+Sitemap: https://ilutaewe.github.io/ioe/sitemap_index.txt
+Sitemap: https://ilutaewe.github.io/rWN/sitemap_index.txt
+Sitemap: https://ilutaewe.github.io/uSf/sitemap_index.txt
